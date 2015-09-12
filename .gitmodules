@@ -70,3 +70,6 @@
 	path = bundle/csv.vim
 	url = https://github.com/chrisbra/csv.vim.git
     ignore=dirty
+[submodule "bundle/Dockerfile"]
+	path = bundle/Dockerfile
+	url = https://github.com/ekalinin/Dockerfile.vim.git
